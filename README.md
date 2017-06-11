@@ -1,2 +1,2 @@
 # gokit
-Tools for Go Projects, like exception handling, logging and database access
+Tools for Go Projects, including exception handling, logging and database access
